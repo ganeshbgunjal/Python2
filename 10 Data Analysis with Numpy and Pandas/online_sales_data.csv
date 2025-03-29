@@ -1,6 +1,0 @@
-Order ID,Date,Customer,Product,Category,Quantity,Price,Total,Payment Method,Location
-101,2024-03-01,Alice,Laptop,Electronics,1,1200,1200,Credit Card,New York
-102,2024-03-02,Bob,Smartphone,Electronics,2,800,1600,PayPal,Los Angeles
-103,2024-03-03,Charlie,Headphones,Accessories,1,150,150,Debit Card,Chicago
-104,2024-03-04,David,Tablet,Electronics,3,600,1800,Credit Card,Houston
-105,2024-03-05,Eve,Smartwatch,Wearables,2,250,500,PayPal,Miami
