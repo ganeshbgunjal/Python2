@@ -1,0 +1,51 @@
+Date,Region,Product_Category,Product_Name,Units_Sold,Unit_Price,Payment_Method,Total_Revenue
+2024-01-01,East,Clothing,Sneakers,7,349.62,Cash,2447.34
+2024-01-02,West,Furniture,Sofa,9,646.39,PayPal,5817.51
+2024-01-03,North,Clothing,Sofa,8,1228.84,Cash,9830.72
+2024-01-04,East,Accessories,Watch,12,1292.49,Credit Card,15509.880000000001
+2024-01-05,East,Clothing,Sofa,2,20.36,Credit Card,40.72
+2024-01-06,West,Accessories,Sofa,1,771.01,Cash,771.01
+2024-01-07,North,Accessories,Desk,16,631.94,Cash,10111.04
+2024-01-08,North,Electronics,Watch,5,340.94,PayPal,1704.7
+2024-01-09,East,Clothing,Desk,3,188.6,Debit Card,565.8
+2024-01-10,South,Electronics,Sneakers,12,513.05,Cash,6156.599999999999
+2024-01-11,East,Clothing,Sneakers,8,1414.94,Credit Card,11319.52
+2024-01-12,East,Clothing,Desk,3,491.57,PayPal,1474.71
+2024-01-13,East,Electronics,Sneakers,1,783.0,Cash,783.0
+2024-01-14,East,Electronics,Watch,3,1057.5,Credit Card,3172.5
+2024-01-15,West,Clothing,Laptop,5,551.81,Credit Card,2759.0499999999997
+2024-01-16,North,Furniture,Desk,15,1457.96,Debit Card,21869.4
+2024-01-17,West,Accessories,Headphones,14,1444.05,PayPal,20216.7
+2024-01-18,West,Electronics,Headphones,3,385.16,PayPal,1155.48
+2024-01-19,West,Accessories,Sofa,1,750.9,Debit Card,750.9
+2024-01-20,East,Furniture,Sneakers,5,458.31,Debit Card,2291.55
+2024-01-21,South,Furniture,Headphones,14,434.41,PayPal,6081.740000000001
+2024-01-22,North,Furniture,Sofa,7,64.96,PayPal,454.71999999999997
+2024-01-23,South,Electronics,Laptop,9,918.25,Cash,8264.25
+2024-01-24,West,Furniture,Watch,15,758.99,Cash,11384.85
+2024-01-25,West,Electronics,Watch,15,86.7,Debit Card,1300.5
+2024-01-26,South,Furniture,Watch,10,425.18,Cash,4251.8
+2024-01-27,South,Accessories,Headphones,13,1363.32,Credit Card,17723.16
+2024-01-28,South,Accessories,Laptop,19,366.95,Cash,6972.05
+2024-01-29,West,Clothing,Headphones,7,225.89,Cash,1581.23
+2024-01-30,West,Accessories,Sneakers,17,739.28,Credit Card,12567.76
+2024-01-31,North,Clothing,Headphones,4,1478.62,Debit Card,5914.48
+2024-02-01,North,Accessories,Laptop,5,370.66,Credit Card,1853.3000000000002
+2024-02-02,West,Electronics,Laptop,7,1011.48,Cash,7080.360000000001
+2024-02-03,South,Accessories,Sneakers,13,1144.81,Debit Card,14882.529999999999
+2024-02-04,South,Clothing,Laptop,15,364.08,Cash,5461.2
+2024-02-05,North,Clothing,Laptop,11,1095.04,Credit Card,12045.439999999999
+2024-02-06,West,Furniture,Watch,4,558.0,Credit Card,2232.0
+2024-02-07,North,Electronics,Sneakers,13,952.14,Cash,12377.82
+2024-02-08,North,Accessories,Shirt,7,953.96,PayPal,6677.72
+2024-02-09,East,Furniture,Shirt,19,808.3,PayPal,15357.699999999999
+2024-02-10,East,Accessories,Laptop,2,144.53,Credit Card,289.06
+2024-02-11,East,Accessories,Shirt,10,1254.6,Credit Card,12546.0
+2024-02-12,South,Furniture,Shirt,13,487.96,PayPal,6343.48
+2024-02-13,West,Furniture,Laptop,6,287.91,PayPal,1727.46
+2024-02-14,West,Furniture,Shirt,12,70.75,Cash,849.0
+2024-02-15,West,Furniture,Headphones,12,890.43,Cash,10685.16
+2024-02-16,West,Furniture,Sofa,11,1019.57,PayPal,11215.27
+2024-02-17,East,Accessories,Sneakers,7,34.72,Cash,243.04
+2024-02-18,South,Furniture,Sofa,1,773.02,Cash,773.02
+2024-02-19,South,Electronics,Laptop,1,347.48,Debit Card,347.48
