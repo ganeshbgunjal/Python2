@@ -14,23 +14,23 @@ logger = logging.getLogger('ArithmaticApp')
 
 def add(a,b):
     result = a+b
-    logging.debug(f'Adding {a} + {b} = {result}')
+    logger.debug(f'Adding {a} + {b} = {result}')
     return result
 
 def substract(a,b):
     result = a-b
-    logging.debug(f'Substracting {a} - {b} = {result}')
+    logger.debug(f'Substracting {a} - {b} = {result}')
     return result
 
 def multiplication(a,b):
     result = a*b
-    logging.debug(f'Multiplying {a} * {b} = {result}')
+    logger.debug(f'Multiplying {a} * {b} = {result}')
     return result
 
 def division(a,b):
     try:
         result = a/b
-        logging.debug(f'Dividing {a} / {b} = {result}')
+        logger.debug(f'Dividing {a} / {b} = {result}')
         return result
     except ZeroDivisionError:
         logger.error('Division by zero error.')
