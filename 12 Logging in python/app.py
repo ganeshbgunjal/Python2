@@ -39,4 +39,4 @@ def division(a,b):
 add(10,15)
 substract(15,10)
 multiplication(10,20)
-division(20,10)
+division(20,0)
