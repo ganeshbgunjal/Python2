@@ -1,0 +1,5 @@
+Hello Python World!
+This is another new line for write function!This is append operation!
+This is another line for this operation!
+
+-- data is copied from souce file(example.txt) to destination file.
