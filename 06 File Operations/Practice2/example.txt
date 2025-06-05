@@ -1,3 +1,3 @@
-This is first file for the understanding file operations.
-Ganesh you are becoming Data Scientist. 
-You are pro Data Scientist.
+Hello Python World!
+This is another new line for write function!This is append operation!
+This is another line for this operation!
