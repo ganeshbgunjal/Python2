@@ -1,0 +1,1 @@
+This file is for understanding folder in the file handling process.
